@@ -161,4 +161,4 @@ try:
             break
 except IOError as e:
     print("Several errors were received as %s " % e)
-# bad_sector
+# Reza Chabok
